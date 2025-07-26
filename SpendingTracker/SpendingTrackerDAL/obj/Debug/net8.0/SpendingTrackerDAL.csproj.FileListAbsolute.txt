@@ -1,0 +1,36 @@
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\bin\Debug\net8.0\SpendingTrackerDAL.deps.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\bin\Debug\net8.0\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\bin\Debug\net8.0\SpendingTrackerDAL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.csproj.AssemblyReference.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.AssemblyInfoInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.AssemblyInfo.cs
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.csproj.CoreCompileInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\obj\Debug\net8.0\refint\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerDAL\obj\Debug\net8.0\ref\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\bin\Debug\net8.0\SpendingTrackerDAL.deps.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\bin\Debug\net8.0\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\bin\Debug\net8.0\SpendingTrackerDAL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.csproj.AssemblyReference.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.AssemblyInfoInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.AssemblyInfo.cs
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.csproj.CoreCompileInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\refint\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\ref\SpendingTrackerDAL.dll
+E:\SpendingTracker\SpendingTrackerDAL\bin\Debug\net8.0\SpendingTrackerDAL.deps.json
+E:\SpendingTracker\SpendingTrackerDAL\bin\Debug\net8.0\SpendingTrackerDAL.dll
+E:\SpendingTracker\SpendingTrackerDAL\bin\Debug\net8.0\SpendingTrackerDAL.pdb
+E:\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.csproj.AssemblyReference.cache
+E:\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.AssemblyInfoInputs.cache
+E:\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.AssemblyInfo.cs
+E:\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.csproj.CoreCompileInputs.cache
+E:\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.dll
+E:\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\refint\SpendingTrackerDAL.dll
+E:\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\SpendingTrackerDAL.pdb
+E:\SpendingTracker\SpendingTrackerDAL\obj\Debug\net8.0\ref\SpendingTrackerDAL.dll

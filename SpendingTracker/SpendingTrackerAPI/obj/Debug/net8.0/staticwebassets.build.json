@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MsxwbIt95Z2InYN+NDTKDdoY6WElI8NRr2mDuXI0Jh4=",
+  "Source": "SpendingTrackerAPI",
+  "BasePath": "_content/SpendingTrackerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

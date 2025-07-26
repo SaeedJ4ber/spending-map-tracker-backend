@@ -1,0 +1,45 @@
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerBLL.deps.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerBLL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerBLL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerDAL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.csproj.AssemblyReference.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.AssemblyInfoInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.AssemblyInfo.cs
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.csproj.CoreCompileInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\obj\Debug\net8.0\Spending.B0114383.Up2Date
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\obj\Debug\net8.0\refint\SpendingTrackerBLL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerBLL\obj\Debug\net8.0\ref\SpendingTrackerBLL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerBLL.deps.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerBLL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerBLL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerDAL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.csproj.AssemblyReference.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.AssemblyInfoInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.AssemblyInfo.cs
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.csproj.CoreCompileInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\Spending.B0114383.Up2Date
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\refint\SpendingTrackerBLL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\ref\SpendingTrackerBLL.dll
+E:\SpendingTracker\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerBLL.deps.json
+E:\SpendingTracker\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerBLL.dll
+E:\SpendingTracker\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerBLL.pdb
+E:\SpendingTracker\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerDAL.dll
+E:\SpendingTracker\SpendingTrackerBLL\bin\Debug\net8.0\SpendingTrackerDAL.pdb
+E:\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.csproj.AssemblyReference.cache
+E:\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.AssemblyInfoInputs.cache
+E:\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.AssemblyInfo.cs
+E:\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.csproj.CoreCompileInputs.cache
+E:\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\Spending.B0114383.Up2Date
+E:\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.dll
+E:\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\refint\SpendingTrackerBLL.dll
+E:\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\SpendingTrackerBLL.pdb
+E:\SpendingTracker\SpendingTrackerBLL\obj\Debug\net8.0\ref\SpendingTrackerBLL.dll

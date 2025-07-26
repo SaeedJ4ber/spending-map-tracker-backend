@@ -1,0 +1,34 @@
+
+Budgets:
+
+	1- GetAllBudgets -> Work
+	
+	2- GetValidBudgets -> Work
+	
+	3- GetBudgetByID -> Work
+	
+	4- UpdateBudget -> Work but, it gives error because of dates (All table rows updated except dates gives NULL values), using validated string as dates is better
+	
+	5- AddBudget -> Work but, it gives error because of dates (All table rows updated except dates gives NULL values),  using validated string as dates is better
+	
+	6- DeleteBudget -> Work
+
+
+Categories:
+
+	All is working.
+	
+	
+	
+Expenses:
+
+	1- AddNewExpense -> Work (The record added to the database) but, it gives routing error
+	
+	2- GetExpenseByID -> Work
+	
+	3- UpdateExpense -> Work
+	
+	4- DeleteExpense -> Work
+	
+	5- GetAllExpenses -> Work
+

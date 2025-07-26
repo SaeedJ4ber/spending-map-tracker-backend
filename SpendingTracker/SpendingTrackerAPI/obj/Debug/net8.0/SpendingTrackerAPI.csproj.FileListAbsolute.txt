@@ -1,0 +1,255 @@
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.staticwebassets.endpoints.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.exe
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.deps.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.runtimeconfig.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerBLL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerBLL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerDAL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.csproj.AssemblyReference.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.AssemblyInfoInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.AssemblyInfo.cs
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.csproj.CoreCompileInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\scopedcss\bundle\SpendingTrackerAPI.styles.css
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.SpendingTrackerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.SpendingTrackerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SpendingTrackerAPI.props
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SpendingTrackerAPI.props
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SpendingTrackerAPI.props
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\Spending.B11CF347.Up2Date
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\refint\SpendingTrackerAPI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.genruntimeconfig.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTrackerAPI\obj\Debug\net8.0\ref\SpendingTrackerAPI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.staticwebassets.endpoints.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.exe
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.deps.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.runtimeconfig.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerBLL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerDAL.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerBLL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerDAL.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.csproj.AssemblyReference.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.AssemblyInfoInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.AssemblyInfo.cs
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.csproj.CoreCompileInputs.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\scopedcss\bundle\SpendingTrackerAPI.styles.css
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.SpendingTrackerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.SpendingTrackerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SpendingTrackerAPI.props
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SpendingTrackerAPI.props
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SpendingTrackerAPI.props
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\Spending.B11CF347.Up2Date
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\refint\SpendingTrackerAPI.dll
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.pdb
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.genruntimeconfig.cache
+C:\Users\sun com\OneDrive\Desktop\My Programs & Projects\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\ref\SpendingTrackerAPI.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\appsettings.json
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.staticwebassets.endpoints.json
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.exe
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.deps.json
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.runtimeconfig.json
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerAPI.pdb
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.ClientModel.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerBLL.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerDAL.dll
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerBLL.pdb
+E:\SpendingTracker\SpendingTrackerAPI\bin\Debug\net8.0\SpendingTrackerDAL.pdb
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.csproj.AssemblyReference.cache
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.AssemblyInfoInputs.cache
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.AssemblyInfo.cs
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.csproj.CoreCompileInputs.cache
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\scopedcss\bundle\SpendingTrackerAPI.styles.css
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.SpendingTrackerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.SpendingTrackerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SpendingTrackerAPI.props
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SpendingTrackerAPI.props
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SpendingTrackerAPI.props
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\Spending.B11CF347.Up2Date
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.dll
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\refint\SpendingTrackerAPI.dll
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.pdb
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\SpendingTrackerAPI.genruntimeconfig.cache
+E:\SpendingTracker\SpendingTrackerAPI\obj\Debug\net8.0\ref\SpendingTrackerAPI.dll
