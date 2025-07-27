@@ -82,7 +82,7 @@ Required for graduation from King Khalid University (CS Program).
 📬 Contact
 Feel free to connect or reach out:
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/saeed-jaber-15238b263/
 
 GitHub: @SaeedJ4ber
 
